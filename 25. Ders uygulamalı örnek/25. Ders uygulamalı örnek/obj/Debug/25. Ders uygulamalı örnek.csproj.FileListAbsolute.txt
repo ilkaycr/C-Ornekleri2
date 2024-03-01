@@ -1,0 +1,10 @@
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\bin\Debug\_25.Ders_uygulamalı_örnek.exe.config
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\bin\Debug\_25.Ders_uygulamalı_örnek.exe
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\bin\Debug\_25.Ders_uygulamalı_örnek.pdb
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\obj\Debug\25. Ders uygulamalı örnek.csproj.AssemblyReference.cache
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\obj\Debug\_25.Ders_uygulamalı_örnek.Form1.resources
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\obj\Debug\_25.Ders_uygulamalı_örnek.Properties.Resources.resources
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\obj\Debug\25. Ders uygulamalı örnek.csproj.GenerateResource.cache
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\obj\Debug\25. Ders uygulamalı örnek.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\obj\Debug\_25.Ders_uygulamalı_örnek.exe
+C:\C# Form belgeler\25. Ders uygulamalı örnek\25. Ders uygulamalı örnek\obj\Debug\_25.Ders_uygulamalı_örnek.pdb

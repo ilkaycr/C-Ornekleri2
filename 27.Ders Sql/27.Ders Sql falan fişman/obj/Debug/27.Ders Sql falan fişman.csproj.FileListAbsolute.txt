@@ -1,0 +1,10 @@
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\bin\Debug\27.Ders Sql falan fişman.exe.config
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\bin\Debug\27.Ders Sql falan fişman.exe
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\bin\Debug\27.Ders Sql falan fişman.pdb
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\obj\Debug\27.Ders Sql falan fişman.csproj.AssemblyReference.cache
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\obj\Debug\_27.Ders_Sql_falan_fişman.Form1.resources
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\obj\Debug\_27.Ders_Sql_falan_fişman.Properties.Resources.resources
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\obj\Debug\27.Ders Sql falan fişman.csproj.GenerateResource.cache
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\obj\Debug\27.Ders Sql falan fişman.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\obj\Debug\27.Ders Sql falan fişman.exe
+C:\C# Form belgeler\27.Ders Sql falan fişman\27.Ders Sql falan fişman\obj\Debug\27.Ders Sql falan fişman.pdb

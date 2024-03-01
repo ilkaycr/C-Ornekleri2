@@ -1,0 +1,12 @@
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\bin\Debug\26.Ders Uygulama 3 form.exe.config
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\bin\Debug\26.Ders Uygulama 3 form.exe
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\bin\Debug\26.Ders Uygulama 3 form.pdb
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\26.Ders Uygulama 3 form.csproj.AssemblyReference.cache
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\_26.Ders_Uygulama_3_form.Form1.resources
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\_26.Ders_Uygulama_3_form.Form2.resources
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\_26.Ders_Uygulama_3_form.Properties.Resources.resources
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\26.Ders Uygulama 3 form.csproj.GenerateResource.cache
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\26.Ders Uygulama 3 form.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\26.Ders Uygulama 3 form.exe
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\26.Ders Uygulama 3 form.pdb
+C:\C# Form belgeler\26.Ders Uygulama 3 form\26.Ders Uygulama 3 form\obj\Debug\_26.Ders_Uygulama_3_form.Form3.resources
